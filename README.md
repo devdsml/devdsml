@@ -1,6 +1,6 @@
 
 
-- I’m currently learning datascience
+- Learning datascience
 
 
 <!---
